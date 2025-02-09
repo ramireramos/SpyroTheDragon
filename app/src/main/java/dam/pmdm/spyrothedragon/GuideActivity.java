@@ -25,7 +25,9 @@ public class GuideActivity extends AppCompatActivity {
                 new GuideFragmentIntro(),
                 new GuideFragmentPersonajes(),
                 new GuideFragmentWorld(),
-                new GuideFragmentColeccionables()
+                new GuideFragmentColeccionables(),
+                new GuideFragmentInformacion(),
+                new GuideFragmentResumen(),
         };
 
         // Mostrar el primer fragment
