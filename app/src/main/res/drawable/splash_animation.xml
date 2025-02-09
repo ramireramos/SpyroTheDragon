@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <item
+        android:drawable="@drawable/glimmer"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/gems"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/autumn_plains"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/egg_thief"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/elora"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ripto"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/splash"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/cloud_spires"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/skill_points"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/spyro"
+        android:duration="100" />
+</animation-list>
